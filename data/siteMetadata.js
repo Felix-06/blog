@@ -1,25 +1,25 @@
 /** @type {import("pliny/config").PlinyConfig } */
 const siteMetadata = {
-  title: "Prabhu's Blog",
-  author: 'Prabhu Kiran Konda',
-  headerTitle: "Prabhu's Blog",
+  title: "Felix's Blog",
+  author: 'Felix',
+  headerTitle: "Felix's Blog",
   description: 'Exploring Tech and more',
   language: 'en-us',
   theme: 'dark', // system, dark or light
   siteUrl: 'https://prabhukirankonda.vercel.app',
-  siteRepo: 'https://github.com/PrabhuKiran8790/prabhukirankonda',
+  siteRepo: 'https://github.com/Felix-06/blog',
   siteLogo: '/static/images/logo.png',
   socialBanner: '/static/images/twitter-card.png',
-  email: 'prabhukiran426@gmail.com',
-  github: 'https://github.com/PrabhuKiran8790',
-  twitter: 'https://twitter.com/prabhukirantwt',
-  linkedin: 'https://www.linkedin.com/in/prabhukirankonda',
+  email: '2104782475@qq.com',
+  github: 'https://github.com/Felix-06',
+  twitter: 'https://x.com/baidu2198',
+  linkedin: '',
   locale: 'en-US',
   socialLinks: {
-    github: 'https://www.github.com/prabhukiran8790',
-    linkedin: 'https://www.linkedin.com/in/prabhukirankonda',
-    twitter: 'https://twitter.com/prabhukirantwt',
-    mail: 'mailto:prabhukiran426@gmail.com',
+    github: 'https://github.com/Felix-06',
+    linkedin: '',
+    twitter: 'https://x.com/baidu2198',
+    mail: '2104782475@qq.com',
   },
   analytics: {
     // If you want to use an analytics provider you have to add it to the
