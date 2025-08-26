@@ -14,7 +14,7 @@ export default function Home({ posts }) {
         <div className="space-y-4">
           <h1 className="text-3xl font-extrabold leading-9 tracking-tight text-gray-900 dark:text-gray-100 sm:text-4xl sm:leading-10 md:text-6xl md:leading-14">
             <span className="wave">👋🏻</span>, <span>I'm </span>
-            <span className="text-sky-500 dark:text-teal-400">Prabhu Kiran Konda</span>
+            <span className="text-sky-500 dark:text-teal-400">Felix</span>
           </h1>
           <p>Welcome to my blog - here I share everything that I love.</p>
           <Link
@@ -26,7 +26,7 @@ export default function Home({ posts }) {
         </div>
         <div className="rounded-full md:hidden shadow-lg ">
           <Image
-            src="/static/images/avatar.jpg"
+            src="/static/images/avatar.png"
             alt="avatar"
             width={150}
             height={150}
@@ -34,7 +34,7 @@ export default function Home({ posts }) {
           />
         </div>
         <Image
-          src="/static/images/avatar.jpg"
+          src="/static/images/avatar.png"
           alt="avatar"
           width={200}
           height={200}
